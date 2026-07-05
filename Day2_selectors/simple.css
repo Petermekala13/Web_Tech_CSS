@@ -1,0 +1,22 @@
+#d1{
+    background-color: aqua;
+}
+.class{
+    background-color: orange;
+}
+div{
+    background-color: palegreen;
+}
+section,aside{
+    background-color: bisque;
+
+}
+*{
+    background-color: burlywood;
+}
+.d3{
+    background-color: black;
+}
+footer{
+    background-color: aquamarine;
+}

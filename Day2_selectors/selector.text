@@ -1,0 +1,31 @@
+****Selectors....used to target the tags with help of class or id
+
+***Types of Selectors...Simple Selectors
+1.id selector(# unique name)...in html id(attribute)...used to target the tags by using #.
+    <h1 id="d1">Hello</h1>
+2.class selector(. same name)...used to target two tags.
+    <div class="d2"></div>
+3.tag selector(tag name) and another name is element selector...used to target the multiple tags by help of tag name.
+    #d1{
+
+    }
+    .d2{
+
+    }
+    h1{
+        css properties
+    }
+4.group selector(,)...used to grouping the tags by using the comma(,)
+    h1,div,#d1,.d2{
+        // css properties
+    }
+5.universal selector(*)/body symbol...used to target the entire the webpage / complete webpage.
+    *{
+        //css properties
+    }
+
+***priority=id>class>tag
+
+***difference between attribute and selector interview question
+attribute:addition information about the particular tag.
+selector:used to target the tags with help of class or id.
